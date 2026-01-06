@@ -1,3 +1,5 @@
+package src;
+
 public enum Topic {
     TECH,
     BIOTECH,
@@ -5,5 +7,6 @@ public enum Topic {
     BUSINESS,
     FINANCE,
     HEALTH,
+    RESEARCH
 
 }
